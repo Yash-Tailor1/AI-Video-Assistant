@@ -1,0 +1,30 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Audio/video downloads
+downloads/
+*.mp3
+*.wav
+*.webm
+*.mp4
+*.m4a
+
+# Vector database
+vector_db/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
